@@ -4,7 +4,7 @@ import subprocess
 import time
 from datetime import datetime
 
-REPO_PATH = "/root/Autonomous-Comit-POC"
+REPO_PATH = "/Users/clementarthaud/Documents/VSCODE/PERSO/AutonomousCommit-POC"
 
 os.chdir(REPO_PATH)
 
